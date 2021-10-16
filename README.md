@@ -1,1 +1,3 @@
-## This is repository Full Stack Web Development aka FSWD Assessinments & Practices.
+## This is repository of Full Stack Web Development aka FSWD which contains following files: 
+- Assessinments
+- Practices
