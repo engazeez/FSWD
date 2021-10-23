@@ -7,11 +7,12 @@ public class LinearSearchProgramm {
 	
 	int n;  
 	Scanner scanner=new Scanner(System.in);  
-	System.out.print("Enter the number of elements you want to store: ");  
+	System.out.print("Enter the number of elements you want to store: "); 
+		
 	//reading the number of elements from the that we want to enter  
 	n=scanner.nextInt();  
 	
-	//creates an array in the memory of length 10  
+	//creates an empty array 
 	int array[] = new int[n];  
 	System.out.println("Enter the elements of the array: ");  
 	
